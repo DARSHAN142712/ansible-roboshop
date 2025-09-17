@@ -55,5 +55,4 @@
     ansible.builtin.service:
       name: cart
       state: started
-      enabled: yes
-  
+      enabled: yes  
